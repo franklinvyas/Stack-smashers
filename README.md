@@ -101,3 +101,5 @@ The application will be accessible at:
 ├── serviceAccountKey.json # Firebase credentials (user provided)
 └── .env                   # Environment variables (user provided)
 ```
+   ## Contributors
+   - Harsh Desai
