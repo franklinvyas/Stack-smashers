@@ -102,4 +102,9 @@ The application will be accessible at:
 └── .env                   # Environment variables (user provided)
 ```
    ## Contributors
-   - Harsh Desai
+   ## Contributors
+
+- [Harsh Desai](https://github.com/desaiharsh0963-glitch)
+- [Darshan Shah](https://github.com/darshan-200710)
+- [Kashyap Makwana](https://github.com/Coderclash-ceo)
+- [Franklin Vyas](https://github.com/franklinvyas)
